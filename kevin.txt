@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.22000.493]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Kevin>cd ..
+
+C:\Users>cd ..
+
+C:\>E:
+
+E:\>cd xampp
+
+E:\xampp>cd htdocs
+
+E:\xampp\htdocs>cd Pemweb 2
+
+E:\xampp\htdocs\Pemweb 2>php kevin.php
+Nama : Ryan Kevin Nurhakim
+Nim : 20090117
+Kelas : 4A
+E:\xampp\htdocs\Pemweb 2>
